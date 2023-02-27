@@ -1,0 +1,17 @@
+C:\Users\AhmedEisa\source\repos\MyFirstWinFormProject\bin\Debug\MyFirstWinFormProject.exe.config
+C:\Users\AhmedEisa\source\repos\MyFirstWinFormProject\bin\Debug\MyFirstWinFormProject.exe
+C:\Users\AhmedEisa\source\repos\MyFirstWinFormProject\bin\Debug\MyFirstWinFormProject.pdb
+C:\Users\AhmedEisa\source\repos\MyFirstWinFormProject\obj\Debug\MyFirstWinFormProject.csproj.AssemblyReference.cache
+C:\Users\AhmedEisa\source\repos\MyFirstWinFormProject\obj\Debug\MyFirstWinFormProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\AhmedEisa\source\repos\MyFirstWinFormProject\obj\Debug\MyFirstWinFormProject.Form1.resources
+C:\Users\AhmedEisa\source\repos\MyFirstWinFormProject\obj\Debug\MyFirstWinFormProject.Properties.Resources.resources
+C:\Users\AhmedEisa\source\repos\MyFirstWinFormProject\obj\Debug\MyFirstWinFormProject.csproj.GenerateResource.cache
+C:\Users\AhmedEisa\source\repos\MyFirstWinFormProject\obj\Debug\MyFirstWinFormProject.csproj.CoreCompileInputs.cache
+C:\Users\AhmedEisa\source\repos\MyFirstWinFormProject\obj\Debug\MyFirstWinFormProject.exe
+C:\Users\AhmedEisa\source\repos\MyFirstWinFormProject\obj\Debug\MyFirstWinFormProject.pdb
+C:\Users\AhmedEisa\source\repos\MyFirstWinFormProject\obj\Debug\MyFirstWinFormProject.Form2.resources
+C:\Users\AhmedEisa\source\repos\MyFirstWinFormProject\obj\Debug\MyFirstWinFormProject.frmNewForm.resources
+C:\Users\AhmedEisa\source\repos\MyFirstWinFormProject\obj\Debug\MyFirstWinFormProject.frmMessageBox.resources
+C:\Users\AhmedEisa\source\repos\MyFirstWinFormProject\obj\Debug\MyFirstWinFormProject.frmTicTacToe.resources
+C:\Users\AhmedEisa\source\repos\MyFirstWinFormProject\obj\Debug\MyFirstWinFormProject.frmCheckRadioGroup.resources
+C:\Users\AhmedEisa\source\repos\MyFirstWinFormProject\obj\Debug\MyFirstWinFormProject.frmPizza.resources
